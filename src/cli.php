@@ -1,7 +1,14 @@
 <?php
 /**
- * Include Files
- */
+* PHP Minify Command Line Tool
+*
+* @author Baki Goxhaj <banago@gmail.com>
+* @version 1.0
+*
+* @copyright Copyright (c) 2013, Baki Goxhaj. All rights reserved.
+* @license MIT License
+*/
+
 require_once 'lib/Minify.php';
 require_once 'lib/CSS.php';
 require_once 'lib/JS.php';
