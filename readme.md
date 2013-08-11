@@ -1,6 +1,6 @@
 # CLI Minify 
 
-This is a PHP CLI minification tool for CSS and JavaScript. It uses Matthias Mullie [minify](https://github.com/matthiasmullie/minify) library as an engine.  
+This is a PHP CLI minification tool for CSS and JavaScript. It uses Matthias Mullie's [minify](https://github.com/matthiasmullie/minify) library as an engine.  
 
 ## Installation/Usage
 
@@ -8,6 +8,12 @@ This is a PHP CLI minification tool for CSS and JavaScript. It uses Matthias Mul
 2. Make it global: `cp build/minify.phar /usr/local/bin/minify && sudo chmod +x /usr/local/bin/minify`
 3. Create a minify.ini on your project. Follow the sample file.
 4. Run `minify`
+
+## Build from Source
+
+1. Clone or download the repo and `cd` into it
+2. Run: `php build.php`
+3. Follow the installation guide above
 
 ## Rouad Map
 
