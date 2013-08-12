@@ -15,7 +15,7 @@ This is a PHP CLI minification tool for CSS and JavaScript. It uses Matthias Mul
 2. Run: `php build.php`
 3. Follow the installation guide above
 
-## Rouad Map
+## Road Map
 
 - Introduce configurability from the `minify.ini` file.
 - Introduce autoload
